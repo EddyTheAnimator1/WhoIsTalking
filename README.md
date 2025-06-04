@@ -37,6 +37,8 @@ value.
   revolutions per second.
 - **Fade Duration** (`0.30`): seconds taken for tags and icons to fade in or
   out. Set to `0` for instant changes.
+- **Colour Transition Duration** (`0.25`): seconds taken for the name-tag colour
+  to adjust when it changes. Set to `0` for instant changes.
 - **Enable Mic Pulse** (`true`): if enabled, the speaker icon scales with voice
   loudness.
 - **Min Scale** (`0.7`): scale multiplier when the player is silent or
